@@ -11,7 +11,7 @@ This is Amplitude's Session Replay SDK for Flutter.
 
 Supports Android and iOS with Flutter 3.29.2 or later and Dart 3.7.2 or later.
 
-## Installation
+## Installation and Quick Start
 
 Add the package to your `pubspec.yaml`:
 
@@ -25,8 +25,6 @@ Then run:
 ```bash
 flutter pub get
 ```
-
-## Documentation
 
 See the [Flutter Session Replay guide](https://www.amplitude.com/docs/sdks/session-replay/session-replay-flutter-standalone-sdk)
 for setup, analytics integration, sampling, privacy, add-to-app support, and
